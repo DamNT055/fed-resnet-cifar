@@ -13,7 +13,7 @@ _build/
 _templates/
 autodoc/
 data/**/*.png
-data/cifar10/data
-data/cifar100/data
+data/cifar10/data/raw
+data/cifar100/data/raw
 data/cifar10/preprocessing/cifar-10-batches-py
 data/cifar100/preprocessing/cifar-100-python
