@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Kiểm tra xem Python có sẵn không
+pushd ../models
+
 if ! command -v python &> /dev/null
 then
     echo "Python is not installed or not in PATH."
