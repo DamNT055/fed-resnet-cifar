@@ -79,7 +79,7 @@ You can view the detailed results of the Federated Learning experiments conducte
 
 This link will direct you to the experiment's workspace on Weights & Biases, where you can explore various metrics, visualizations, and logs generated during the training process.
 
-# Checkpoints
+## Checkpoints
 
 The checkpoints of the Federated Learning experiments are available for review. You can access them through the following link:
 
