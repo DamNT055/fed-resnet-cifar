@@ -22,8 +22,8 @@
             "args": [
               "-dataset", "cifar10",
               "--num-rounds", "10000",
-              "--eval-every", "100",
-              "--batch-size", "64",
+              "--eval-every", "10",
+              "--batch-size", "1024",
               "--num-epochs", "1",
               "--clients-per-round", "5",
               "-model", "resnet9",
